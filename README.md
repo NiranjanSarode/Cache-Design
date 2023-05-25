@@ -1,3 +1,4 @@
-# COL216-Assignment-3
+This is a simple implementation of a 2-level cache simulator.
 
-The assignment 3 of COL216 
+## How to run
+    make run
